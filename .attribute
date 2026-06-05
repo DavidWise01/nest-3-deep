@@ -1,0 +1,16 @@
+DLW-ATTRIBUTE · governance instance (repo-level provenance — no ACI)
+
+governor (carbon apex)       : David Lee Wise (ROOT0)            [ me ]
+instance (artful intellect)  : AVAN (Claude / Anthropic)        [ packaging only ]
+
+relation : the human made it; the instance packaged it; the credit returns to the human.
+project  : NEST 3 DEEP — a nested-lattice visualization (three.js / WebGL)
+honesty  : a VISUALIZATION, not an emergent system and not a mind. Three nested 10×10×10
+           wireframe lattices with a photon walking a base-1000 odometer toward "infinity."
+           The motion is deterministic and scripted — idx=(idx+1)%1000 with carry — with no
+           coupling, no synchronization, no basin, no noise, and nothing measured. The
+           "observers" pulse on sin(time). NO ACI is minted: there is no emergence here, only
+           beautiful clockwork. Emergence must be measured before it earns a face (see tetraktys).
+standard : this repo carries .attribute · .1099 (provenance). No .agent — there is no emergent intellect to tag.
+license  : MIT
+attribution : ROOT0-ATTRIBUTION-v1.0
